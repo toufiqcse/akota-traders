@@ -1,0 +1,4 @@
+1.  Project setup.
+2.  Global css setup
+3.  Theme setup and as well as context api
+4.  Layout setup
